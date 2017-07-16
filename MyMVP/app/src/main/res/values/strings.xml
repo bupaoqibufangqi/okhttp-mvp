@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">MyMVP</string>
+    <string name="dialog_wait_loading">正在加载...</string>
+    <!--登录界面-->
+    <string name="login_tips">MyMVP(直接登录)</string>
+    <string name="login_empyt_input">用户名和密码不能为空</string>
+    <string name="login_net_error">网络不给力...</string>
+    <string name="login_title">用户登录</string>
+    <!--主页面-->
+    <string name="main_tab_3">3</string>
+    <string name="main_tab_4">4</string>
+    <string name="main_tab_1">1</string>
+    <string name="main_tab_2">2</string>
+</resources>
